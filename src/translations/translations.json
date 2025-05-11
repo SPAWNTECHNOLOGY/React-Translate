@@ -1,0 +1,40 @@
+{
+  "en-US": {
+    "common": {
+      "Welcome to React": "Welcome to React",
+      "A simple demo app.": "A simple demo app.",
+      "Language": "Language"
+    },
+    "auth": {
+      "Login": "Login",
+      "Logout": "Logout"
+    },
+    "navigation": {
+      "Home": "Home",
+      "About": "About"
+    },
+    "user": {
+      "Welcome back": "Welcome back",
+      "Last login": "Last login"
+    }
+  },
+  "ru-RU": {
+    "common": {
+      "Welcome to React": "Добро пожаловать в React",
+      "A simple demo app.": "Простое демо приложение",
+      "Language": "Язык"
+    },
+    "auth": {
+      "Login": "Войти",
+      "Logout": "Выйти"
+    },
+    "navigation": {
+      "Home": "Главная",
+      "About": "О нас"
+    },
+    "user": {
+      "Welcome back": "С возвращением",
+      "Last login": "Последний вход"
+    }
+  }
+}
