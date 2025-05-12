@@ -9,7 +9,7 @@ English:
 - 🧩 Modular translation structure
 - ⚡ Instant language switching
 
-## ⚙️ Installation
+## ⚙️ Installing dependencies and running
 ```bash
 npm install
 npm start
@@ -30,7 +30,7 @@ npm start
 - 🧩 Модульная система переводов
 - ⚡ Мгновенное переключение языков
 
-## ⚙️ Установка
+## ⚙️ Установка зависимостей и запуск
 ```bash
 npm install
 npm start
